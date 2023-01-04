@@ -8,7 +8,6 @@
   <h3>Tecnologias utilizadas</h3>
 <ul>
 <li>Java 17</li>
-<li>Spring Boot</li>
 <li>PostMan</li>
 <li>EurekaClient</li>
 </ul>
