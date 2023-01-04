@@ -1,6 +1,8 @@
 # ApiGateway
 
-Spring Boot Microservices and Spring Cloud. Build & Deploy.
+<li>Spring Boot Microservices and Spring Cloud. Build & Deploy.</li>
+<li>Eureka Cliente para DiscoveryServer</li>
+<li>Microserviço que faz requisições em SpringBootClient</li>
 
 <div style="display: inline_block"><br>
   <h3>Tecnologias utilizadas</h3>
